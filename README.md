@@ -1,4 +1,4 @@
-# MashupQualityControl
+# Mashup Quality Control
 Quality control for Infor Smart Office Mashups
 
 [https://m3ideas.org/2016/05/04/mashup-quality-control/](Mashup quality control #1) – <m3:ListPanel IsListHeaderVisible=”True”>
