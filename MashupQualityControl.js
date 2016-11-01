@@ -182,8 +182,8 @@ package MForms.JScript {
 		}
 
 		// returns the absolute path, qualified by name, of the specified node, by recursive backwards traversal, best guess
-        function GetPath(node: XmlNode) {
-        	var s: String = "";
+		function GetPath(node: XmlNode) {
+			var s: String = "";
 			while (node != null && node.NodeType == XmlNodeType.Element && node.NodeType != XmlNodeType.Document) {
 				var element: XmlElement = node;
 				if (element.HasAttribute("Name")) {
@@ -194,6 +194,6 @@ package MForms.JScript {
 				node = node.ParentNode;
 			}
 			return s;
-        }
+		}
 	}
 }
