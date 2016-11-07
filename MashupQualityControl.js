@@ -12,8 +12,9 @@ import Mango.UI.Services.Mashup.Internal;
 import MForms;
 
 /*
-Mashup Quality Control
+Quality Control for Infor Smart Office Mashups
 Thibaud Lopez Schneider
+2016-11-07
 https://github.com/M3OpenSource/MashupQualityControl
 https://m3ideas.org/?s=mashup+quality+control
 
